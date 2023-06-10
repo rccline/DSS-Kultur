@@ -1,0 +1,50 @@
+---
+title: "Drei Frage"
+author: "Robert Cline"
+date: "2023-06-10 f&auml;llig"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# &szlig;
+```
+## Wien, Berlin und Zurich 
+Professor Pabish
+
+**Aufgabe 1**
+
+Warum sind Wien, Zürich und Berlin so wichtig? Welche Fragen können wir stellen, um zu verstehen, warum diese drei Städte in der Geschichte der deutschesprachende L&auml;nder eine bedeutende Rolle spielen?
+
+1. Berlin ist die Hauptstadt Deutschlands. **War Berlin bereits vor der Ernennung zur Hauptstadt so wichtig?** War es genauso wichtig wie beispielsweise Zürich, das ebenfalls eine bedeutende Rolle spielt, jedoch keine Hauptstadt ist?
+
+2. Zürich ist eine internationale Hauptstadt für Finanzierung, aber sie ist auch weltweit bekannt für Technik und Chemie. **Was unterscheidet Zürich im Vergleich zu Genf und Basel, dass es als wichtiger angesehen wird?**
+
+3. Es ist einfach, sich in Metriken zu verlieren, wenn man Städte vergleicht, aber wie versteht man den historischen Vergleich dieser Städte? Wie vermeidet man es, sich in Metriken und Statistiken zu verstricken und dennoch zu verstehen, wie diese wichtigen Wirtschaftszentren zu ihrem kulturellen Einfluss auf die restliche Gesellschaft beitragen?
+
+4. Was ist die gro&szlig;te politische unterscheid zwischen Berlin und Wien?
+
+**Wortschatz**  
+von Guido Brendgens "Ruhelose Metropole Berlin"
+widerspruchlich = contradictory  
+unzuganglich = inaccessible 
+der statige Wandel = constant change
+hinzuzufugen = to add  
+Bewahrung von Tradition = preservtion of tradition  
+
+Wieder im Aufbruch = on the move again  
+
+Siedlung = settlement 
+benachbart = adjacent 
+Istheute so gut wie nichts mehr erhalten = almost nothing is preserved today
+uberwiegend = overwhelmingly  
+
+oden innerstadtischen Brachflache = desolate inner-city wasteland 
+Behutsamer = more curiously 
+Der Abriss = demolition 
+anknupfen = tie on 
+
+hinfallig = lapsed
+versohnen reconcile
+
+
